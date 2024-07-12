@@ -22,3 +22,9 @@ temp = int(input('Digite a temperatura em ºC: '))
 conv = (temp * 1.8) + 32
 print('A temperatura em Fahrenheit será:', conv)
 print('Fim do Programa')
+
+#3. Área do Círculo: Solicite ao usuário um valor do raio de um círculo, calcule sua
+#área e exiba o resultado do cálculo.
+
+r = int(input('Digite o valor do raio do círculo: '))
+A = 
