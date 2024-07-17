@@ -73,3 +73,22 @@
 # valores de 4 notas e seus respectivos pesos, em seguida realize o cálculo da média
 # pondera e exiba o resultado do cálculo.
 
+#nota1 = float(input("digite a primeira nota:"))
+#peso1 = int(input("Digite o primeiro peso:"))
+#nota2 = float(input("digite a primeira nota:"))
+#peso2 = int(input("Digite o primeiro peso:"))
+#nota3 = float(input("digite a primeira nota:"))
+#peso3 = int(input("Digite o primeiro peso:"))
+#nota4 = float(input("digite a primeira nota:"))
+#peso4 = int(input("Digite o primeiro peso:"))
+
+#div = (nota1*peso1)+(nota2*peso2)+(nota3*peso3)+(nota4*peso4)
+#somatoriopesos = peso1+peso2+peso3+peso4
+
+#media = div/somatoriopesos
+
+#print("A média é:", media)
+
+#8.Equação de Segundo Grau: Solicite ao usuário os valores de “a”, “b”, “c” e “x”, em
+#seguida resolva uma equação quadrática do tipo y = ax2 + bx + c e exiba o valor
+#de y para o usuário.
