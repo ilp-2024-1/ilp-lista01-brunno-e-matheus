@@ -92,3 +92,49 @@
 #8.Equação de Segundo Grau: Solicite ao usuário os valores de “a”, “b”, “c” e “x”, em
 #seguida resolva uma equação quadrática do tipo y = ax2 + bx + c e exiba o valor
 #de y para o usuário.
+
+#a = float(input("entre com o valor de a:"))
+#b = float(input("entre com o valor de b:"))
+#c = float(input("entre com o valor de c:"))
+#x = float(input("entre com o valor de x:"))
+
+#equacao = a*x*x + b*x + c
+
+#print("o resultado da equação é:",equacao)
+
+#9. Calculadora de IMC: Solicite ao usuário os valores de peso (kg) e altura (m),
+#calcule o índice de massa corporal (IMC), sabendo que ��� = !"#$
+#%&'()%!, em seguidaexiba o valor do IMC calculado.
+
+#peso = float(input("Entre com valor do peso:"))
+#altura = float(input("entre com o valor da altura:"))
+
+#imc = peso/(altura**2)
+
+#print("seu imc é:",imc)
+
+#10.Tabuada: Solicite ao usuário um valor numérico, em seguida, exiba a tabuada de
+#um número específico (por exemplo, 5). O programa deverá ter como saída:
+#5x1 = 5; 5x2 = 10; 5x3 = 15; 5x4 = 20; 5x5 = 25; 5x6 = 30; 5x7 = 35; 5x8 = 40; 5x9
+#= 45; 5x10 = 50;
+
+#numero = int(input("entre com o valor para calcular a tabuada:"))
+
+#print(f"tabuada do numero,{numero}:\n{numero}*1 = {numero*1}\n{numero}*2 = {numero*2}\n{numero}*3 = {numero*3}\n{numero}*4 = {numero*4}\n{numero}*5 = {numero*5}\n{numero}*6 = {numero*6}\n{numero}*7 = {numero*7}\n{numero}*8 = {numero*8}\n{numero}*9 = {numero*9}\n{numero}*10 = {numero*10}")
+
+#11.Conversão de Segundos para o Formato HORA:MINUTO:SEGUNDO: Solicite
+#ao usuário um valor numérico correspondente à quantidade de segundos, em
+#seguida converta o valor para o formato de HORA:MINUTO:SEGUNDO.
+
+#segundos = int(input("entre com o valor em segundos:"))
+
+#hora = segundos//3600
+#minutos = (segundos % 3600)//60
+#segundos = segundos % 60
+
+#print(f"{hora}:{minutos}:{segundos}")
+
+
+
+
+
